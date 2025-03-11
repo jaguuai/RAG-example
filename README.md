@@ -75,3 +75,6 @@ CREATE TABLE scarlet (
     content TEXT,
     embedding VECTOR
 );
+![rag](https://github.com/user-attachments/assets/c1d6e7bb-e93a-41f6-87d9-bc4c218384c1)
+
+
