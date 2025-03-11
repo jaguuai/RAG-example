@@ -5,7 +5,7 @@ This project allows users to query specific information from a collection of She
 
 The project uses the [Sherlock Holmes stories in plain text](https://sherlock-holm.es/stories/plain-text/stud.txt) as the document source, processes the data into manageable chunks, generates embeddings, and stores the embeddings in a SingleStore database for fast similarity searches.
 
-![Alt text](C:/Users/alice/OneDrive/Masaüstü/your-image.png)
+![Alt text](rag.png)
 
 
 ## Technologies Used
